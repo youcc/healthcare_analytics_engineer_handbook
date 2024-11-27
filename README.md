@@ -29,6 +29,7 @@ Even though many people in Healthcare Analytics get called "data analysts" or "d
 
 ## Blogs
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
+- [Google Health Health AI Developer Foundations](https://research.google/blog/helping-everyone-build-ai-for-healthcare-applications-with-open-foundation-models/)
 
 
 ## Books
@@ -58,7 +59,9 @@ Even though many people in Healthcare Analytics get called "data analysts" or "d
 - [The Truth about Health Care: Why Reform is Not Working in America](https://www.amazon.com/Truth-About-Health-Care-Critical-ebook/dp/B000V8AML8)
 - [Veridical Data Science](https://vdsbook.com/)
 
-  
+## Companies
+- [Google Health AI Developer Foundations]https://developers.google.com/health-ai-developer-foundations/
+
 ## Courses
 - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
 - [Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
