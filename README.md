@@ -1,8 +1,17 @@
-# Healthcare Analytics Handbook
+# Healthcare Analytics Engineer Handbook
 
-This repo has all the resources you need to be good at Healthcare Analytics!
+This repo has all the resources you need to be a great Healthcare Analytics Engineer!
 
 Please submit a pull request if there is any thing you'd like to contribute. Thanks!
+
+## Getting started
+I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For pure data engineering stuff, check out his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook).
+
+Even though many people in Healthcare Analytics get called "data analysts" or "data scientists," a lot of what they do is actually "data engineering." So, they often end up working as "analytics engineers."   
+
+![image](https://github.com/user-attachments/assets/a5e5fd14-7e97-4f7c-96b2-b39997693a56)
+
+
 
 ## Table of contents
 
@@ -67,7 +76,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 
  
 ## Newsletters
-- [Health Data Science](https://healthdatascience.substack.com/)
+- [Health Innovation](https://healthinnovation.substack.com/)
 - [Healthcare Brew](https://www.healthcare-brew.com/)
 - [Medical Futurist](https://medicalfuturist.com/)
 
@@ -99,9 +108,14 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
  
 ## Summer Internship
 - [Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
- 
 
 ## Websites
 - [Learn about CMS data](https://resdac.org/learn)
 - [TheCodingDocs](https://www.thecodingdocs.com/home)
 
+## Socla Media Accounts
+Here's the mostly comprehensive list of data engineering creators: 
+| Name                 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50"/><br/> YouTube | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> <br/> LinkedIn | <img src="https://icon2.cleanpng.com/20240402/kzp/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" width="50"><br/> X/Twitter | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> <br/> Instagram | <img src="https://icon2.cleanpng.com/20240214/kxl/transparent-tiktok-logo-tiktok-logo-blue-and-pink-lettering-re-retro-style-tiktok-logo-evoking-1950s-1710878265139.webp" width="50"> <br/> TikTok |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chad You | | [Chad You](https://www.linkedin.com/in/chadyou/) | [Chad You](https://x.com/youcc) |
+| Andrea Hobby | | [Andrea Hobby](https://www.linkedin.com/in/andreahobby/) |  
