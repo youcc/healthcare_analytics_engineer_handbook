@@ -81,6 +81,7 @@ Even though many people in Healthcare Analytics get called "data analysts" or "d
 ## Newsletters
 - [Health Innovation](https://healthinnovation.substack.com/)
 - [Healthcare Brew](https://www.healthcare-brew.com/)
+- [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
 - [Medical Futurist](https://medicalfuturist.com/)
 
 
@@ -122,3 +123,4 @@ Here's the mostly comprehensive list of data engineering creators:
 |----------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chad You | | [Chad You](https://www.linkedin.com/in/chadyou/) | [Chad You](https://x.com/youcc) |
 | Andrea Hobby | | [Andrea Hobby](https://www.linkedin.com/in/andreahobby/) |  
+| Madison Schott | [Madison Schott](https://www.linkedin.com/in/schottmadison/) | 
