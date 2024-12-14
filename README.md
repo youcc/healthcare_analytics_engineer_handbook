@@ -60,7 +60,7 @@ Even though many people in Healthcare Analytics get called "data analysts" or "d
 - [Veridical Data Science](https://vdsbook.com/)
 
 ## Companies
-- [Google Health AI Developer Foundations]https://developers.google.com/health-ai-developer-foundations/
+- [Google Health AI Developer Foundations](https://developers.google.com/health-ai-developer-foundations/)
 
 ## Courses
 - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
