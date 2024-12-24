@@ -11,7 +11,13 @@ Even though many people in Healthcare Analytics get called "data analysts" or "d
 
 ![image](https://github.com/user-attachments/assets/a5e5fd14-7e97-4f7c-96b2-b39997693a56)
 
+In any field, three key abilities are generally considered essential: business knowledge, soft skills, and hard skills. 
 
+![alt text](<Screenshot from 2024-12-23 21-57-35.png>)
+
+- Check out [Healthcare Knowlege](healthcare-knowledge.md) section for more business domain knowledge!
+- Check out [Soft Skills](soft-skills.md) section for key soft skills needed!
+- Check out [Hard Skills](hard-skills.md) section for a list of core technicall skills!
 
 ## Table of contents
 

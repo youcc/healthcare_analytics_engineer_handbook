@@ -1,0 +1,10 @@
+# HARD SKILLS
+
+## SQL
+
+## PYTHON
+
+## R
+
+## DATA VISUALIZATION
+
