@@ -1,7 +1,7 @@
 # HEALTHCARE DOMAIN KNOWLEDGE
 
 ## HL7
-- HL7, or Health Level Seven, is a set of standards for exchanging health information between different software applications used in healthcare. Imagine it like a postal service for health data; it ensures that when information leaves one system, like a hospital's record system, it can be correctly understood by another, like a doctor's office software. This standardization helps in managing patient data smoothly across various settings, improving care coordination and patient outcomes. 
+- HL7, or **Health Level Seven**, is a set of standards for exchanging health information between different software applications used in healthcare. Imagine it like a postal service for health data; it ensures that when information leaves one system, like a hospital's record system, it can be correctly understood by another, like a doctor's office software. This standardization helps in managing patient data smoothly across various settings, improving care coordination and patient outcomes. 
 
 ## FHIR
 - FHIR, which stands for **Fast Healthcare Interoperability Resources**, is a standard in healthcare for exchange medical data. Think of it like a common language that allows different health systems, apps, and devices to talk to each other. It makes sharing information like patient records, lab results, or medication lists easier, faster, and more secure. This helps doctors, nurses, and other healthcare providers to have the right information at the right time to make better decisions for patient care. 
