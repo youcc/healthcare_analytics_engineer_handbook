@@ -21,17 +21,22 @@ In any field, three key abilities are generally considered essential: business k
 
 ## Table of contents
 
-- [Blogs](#blogs)
-- [Books](#books)
-- [Courses](#courses)
-- [Guiding Principles](#guiding-principles)
-- [Journals](#journals)
-- [Newsletters](#newsletters)
-- [Open Data](#open-data)
-- [Projects](#projects)
-- [Repos](#repos)
-- [Summer Internship](#summer-internship)
-- [Websites](#websites)
+- [Healthcare Knowlege](healthcare-knowledge.md)
+    - [Provider Lookup](provider-lookup.md)
+- [Soft Skills](soft-skills.md)
+- [Hard Skills](hard-skills.md)
+- Resources
+    - [Blogs](#blogs)
+    - [Books](#books)
+    - [Courses](#courses)
+    - [Guiding Principles](#guiding-principles)
+    - [Journals](#journals)
+    - [Newsletters](#newsletters)
+    - [Open Data](#open-data)
+    - [Projects](#projects)
+    - [Repos](#repos)
+    - [Summer Internship](#summer-internship)
+    - [Websites](#websites)
 
 ## Blogs
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
@@ -103,10 +108,7 @@ In any field, three key abilities are generally considered essential: business k
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
    - [Medical Informatics Operating Room Vitals and Events Repository](https://archive.ics.uci.edu/dataset/877/mover:+medical+informatics+operating+room+vitals+and+events+repository)
 
-### Provider Lookup
-- [NPPES NPI Registry](https://npiregistry.cms.hhs.gov/search)
-- [TN License Verification](https://apps.health.tn.gov/licensure/default.aspx)
-- [Medicare Provider Look-up Tool](https://data.cms.gov/tools/medicare-physician-other-practitioner-look-up-tool)
+
 
 ## Projects  
 - [The TUVA project](https://thetuvaproject.com/)
