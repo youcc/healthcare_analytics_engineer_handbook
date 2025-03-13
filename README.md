@@ -127,6 +127,9 @@ In any field, three key abilities are generally considered essential: business k
 ## Summer Internship
 - [Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
 
+
+## YouTube
+- [Building A Data Engineering Project - Starting A Data Analytics Project With "Real" Healthcare Data](https://www.youtube.com/watch?v=Qp4BfEOq7zA)
 ## Websites
 - [Learn about CMS data](https://resdac.org/learn)
 - [TheCodingDocs](https://www.thecodingdocs.com/home)
@@ -138,4 +141,6 @@ Here's the mostly comprehensive list of data engineering creators:
 | Chad You | | [Chad You](https://www.linkedin.com/in/chadyou/) | [Chad You](https://x.com/youcc) |
 | Andrea Hobby | | [Andrea Hobby](https://www.linkedin.com/in/andreahobby/) |  
 | Madison Schott | [Madison Schott](https://www.linkedin.com/in/schottmadison/) | 
-|Tristan Handy | [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) |
+| Tristan Handy | [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) |
+| Benjamin Rogojan | [Seattle Data Guy](https://www.youtube.com/@SeattleDataGuy) | [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) |[SeattleDataGuy](https://x.com/SeattleDataGuy) |
+| Zack Wilson | [Data with Zach](https://www.youtube.com/@EcZachly_) | [Zach Wilson](https://www.linkedin.com/in/eczachly/) | [Zach Morris Wilson](https://x.com/EcZachly) |
