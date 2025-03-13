@@ -78,6 +78,7 @@ In any field, three key abilities are generally considered essential: business k
 - [Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 - [Health Policy 101](https://www.kff.org/health-policy-101/)
 - [HealthR](https://healthyr.surgicalinformatics.org/)
+- [Regression Modeling Strategies Short Course](https://hbiostat.org/doc/rms/4day.html)
 
 
 ## Guiding Principles
