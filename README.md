@@ -1,17 +1,17 @@
 # Healthcare Analytics Engineer Handbook
 
-This repo has all the resources you need to be a great Healthcare Analytics Engineer!
+This handbook aims to bridge the gap between healthcare domain knowledge and techincal analytics skills -- something I wish I had when starting my journey in this field. 
 
-Please submit a pull request if there is any thing you'd like to contribute. Thanks!
+I welcome your contributions, feedback, and suggestions as we continue to build this resource together. Whether you're a seasoned healthcare analytics professional or just starting your journey, there's a place for you in this community!
 
 ## Getting started
-I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For pure data engineering stuff, check out his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook).
+I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For comprehensive data engineering resources, his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) is excellent.
 
-Even though many people in Healthcare Analytics get called "data analysts" or "data scientists," a lot of what they do is actually "data engineering." So, they often end up working as "analytics engineers."   
+It's interesting to note that while many healthcare analytics professionals are titled "data analyts" or "data scientists", they frequently perform tasks fall under "data engineering." This is why manay end up functioning as "analytics engineers" in practice.  
 
 ![image](https://github.com/user-attachments/assets/a5e5fd14-7e97-4f7c-96b2-b39997693a56)
 
-In any field, three key abilities are generally considered essential: business knowledge, soft skills, and hard skills. 
+Across all fields, professionals typically need three essential capabilities: business knowledge, soft skills, and hard skills. 
 
 ![alt text](<Screenshot from 2024-12-23 21-57-35.png>)
 
@@ -21,18 +21,18 @@ In any field, three key abilities are generally considered essential: business k
 
 ## Table of contents
 
-### Section I: Business Knowledge
+### [Section I: Business Knowledge](healthcare-knowledge.md)
 - Chapter 1: Healthcare System Fundamentals
 - Chapter 2: Healthcare Data Landscape
 - Chapter 3: Healthcare Analytics Use Cases
-    - [Provider Lookup](/provider-lookup.md)
-### Section II: Hard Skills
+    - [Provider Lookup](provider-lookup.md)
+### [Section II: Hard Skills](soft-skills.md)
 - Chapter 4: Healthcare Data Architecture
 - Chapter 5: Data Modeling for Healthcare
 - Chapter 6: SQL for Healthcare Analytics
 - Chapter 7: Visualization for Healthcare Data
 - Chapter 8: Advanced Analytics in Healthcare
-### Section III: Soft Skills
+### [Section III: Soft Skills](hard-skills.md)
 - Chapter 9: Collaboration with Healthcare Stakeholders
 - Chapter 10: Healthcare Analytics Project Management
 - Chapter 11: Translating Business Questions to Analytics
