@@ -7,7 +7,7 @@ I welcome your contributions, feedback, and suggestions as we continue to build 
 ## Getting started
 I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For comprehensive data engineering resources, his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) is excellent.
 
-It's interesting to note that while many healthcare analytics professionals are titled "data analyts" or "data scientists", they frequently perform tasks fall under "data engineering." This is why manay end up functioning as "analytics engineers" in practice.  
+It's interesting to note that while many healthcare analytics professionals are titled "data analyts" or "data scientists", they frequently perform tasks fall under "data engineering." This is why many end up functioning as "analytics engineers" in practice.  
 
 ![image](https://github.com/user-attachments/assets/a5e5fd14-7e97-4f7c-96b2-b39997693a56)
 
