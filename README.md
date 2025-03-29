@@ -15,9 +15,6 @@ Across all fields, professionals typically need three essential capabilities: bu
 
 ![alt text](<Screenshot from 2024-12-23 21-57-35.png>)
 
-- Check out [Healthcare Knowlege](healthcare-knowledge.md) section for more business domain knowledge!
-- Check out [Soft Skills](soft-skills.md) section for key soft skills needed!
-- Check out [Hard Skills](hard-skills.md) section for a list of core technicall skills!
 
 ## Table of contents
 
