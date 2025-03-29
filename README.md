@@ -21,29 +21,42 @@ In any field, three key abilities are generally considered essential: business k
 
 ## Table of contents
 
-- [Healthcare Knowlege](healthcare-knowledge.md)
-    - [Provider Lookup](provider-lookup.md)
-- [Soft Skills](soft-skills.md)
-- [Hard Skills](hard-skills.md)
-- Resources
-    - [Blogs](#blogs)
-    - [Books](#books)
-    - [Courses](#courses)
-    - [Guiding Principles](#guiding-principles)
-    - [Journals](#journals)
-    - [Newsletters](#newsletters)
-    - [Open Data](#open-data)
-    - [Projects](#projects)
-    - [Repos](#repos)
-    - [Summer Internship](#summer-internship)
-    - [Websites](#websites)
+### Section I: Business Knowledge
+- Chapter 1: Healthcare System Fundamentals
+- Chapter 2: Healthcare Data Landscape
+- Chapter 3: Healthcare Analytics Use Cases
+    - [Provider Lookup](/provider-lookup.md)
+### Section II: Hard Skills
+- Chapter 4: Healthcare Data Architecture
+- Chapter 5: Data Modeling for Healthcare
+- Chapter 6: SQL for Healthcare Analytics
+- Chapter 7: Visualization for Healthcare Data
+- Chapter 8: Advanced Analytics in Healthcare
+### Section III: Soft Skills
+- Chapter 9: Collaboration with Healthcare Stakeholders
+- Chapter 10: Healthcare Analytics Project Management
+- Chapter 11: Translating Business Questions to Analytics
+- Chapter 12: Ethical Consideration in Healthcare Analytics
 
-## Blogs
+## Appendices
+- [Blogs](#blogs)
+- [Books](#books)
+- [Courses](#courses)
+- [Guiding Principles](#guiding-principles)
+- [Journals](#journals)
+- [Newsletters](#newsletters)
+- [Open Data](#open-data)
+- [Projects](#projects)
+- [Repos](#repos)
+- [Summer Internship](#summer-internship)
+- [Websites](#websites)
+
+### Blogs
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
 - [Google Health Health AI Developer Foundations](https://research.google/blog/helping-everyone-build-ai-for-healthcare-applications-with-open-foundation-models/)
 
 
-## Books
+### Books
 - [Analytics and AI for Healthcare: Book Series](https://www.routledge.com/analytics-and-AI-for-healthcare/book-series/Aforhealth?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=4392160b1ef911ef803d24d40a82b838)
     - [Digital Health: A Primer](https://www.routledge.com/Digital-Health-A-Primer/Wickramasinghe/p/book/9781032331683)
     - [Dimensions of Intelligent Analytics for Smart Digital Health Solutions](https://www.routledge.com/Dimensions-of-Intelligent-Analytics-for-Smart-Digital-Health-Solutions/Wickramasinghe-Bodendorf-Kraus/p/book/9781032699721)
@@ -70,10 +83,10 @@ In any field, three key abilities are generally considered essential: business k
 - [The Truth about Health Care: Why Reform is Not Working in America](https://www.amazon.com/Truth-About-Health-Care-Critical-ebook/dp/B000V8AML8)
 - [Veridical Data Science](https://vdsbook.com/)
 
-## Companies
+### Companies
 - [Google Health AI Developer Foundations](https://developers.google.com/health-ai-developer-foundations/)
 
-## Courses
+### Courses
 - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
 - [Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 - [Health Policy 101](https://www.kff.org/health-policy-101/)
@@ -81,16 +94,16 @@ In any field, three key abilities are generally considered essential: business k
 - [Regression Modeling Strategies Short Course](https://hbiostat.org/doc/rms/4day.html)
 
 
-## Guiding Principles
+### Guiding Principles
 - [Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
 
 
-## Journals
+### Journals
 - [Medicare & Medicaid Research Review (MMRR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/medicare-medicaid-research-review-mmrr)
 - [Health Care Financing Review (HCFR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/healthcare-financing-review)
 
  
-## Newsletters
+### Newsletters
 - [Health Innovation](https://healthinnovation.substack.com/)
 - [Healthcare Brew](https://www.healthcare-brew.com/)
 - [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
@@ -98,7 +111,7 @@ In any field, three key abilities are generally considered essential: business k
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/)
 
 
-## Open Data
+### Open Data
 - [Care Compare](https://www.medicare.gov/care-compare/)
 - [Centers for Disease Control and Prevention (CDC) Open Technology](https://open.cdc.gov/)
 - [Centers for Medicare & Medicaid Services (CMS) Public Data Sets](https://data.cms.gov/)
@@ -111,30 +124,31 @@ In any field, three key abilities are generally considered essential: business k
 
 
 
-## Projects  
+### Projects  
 - [The TUVA project](https://thetuvaproject.com/)
     - The Tuva Project is a large collection of tools organized into many GitHub repos that transform raw healthcare data into quality-tested data that is ready for analysis and machine learning. At the center of the project is the Tuva data model, a standard data model designed for healthcare analytics. These docs describe how to install, use, and contribute to the Tuva Project.
 
-## Organizations
+### Organizations
 - [Health Care Cost Institute](https://healthcostinstitute.org/)
 
-## Repos
+### Repos
 - [CDC](https://github.com/CDCgov)
 - [CMS](https://github.com/CMSgov)
 - [Healthcare-Analytics](https://github.com/msasnur/Healthcare-Analytics)
     - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
  
-## Summer Internship
+### Summer Internship
 - [Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
 
 
-## YouTube
+### YouTube
 - [Building A Data Engineering Project - Starting A Data Analytics Project With "Real" Healthcare Data](https://www.youtube.com/watch?v=Qp4BfEOq7zA)
-## Websites
+
+### Websites
 - [Learn about CMS data](https://resdac.org/learn)
 - [TheCodingDocs](https://www.thecodingdocs.com/home)
 
-## Socla Media Accounts
+### Socla Media Accounts
 Here's the mostly comprehensive list of data engineering creators: 
 | Name                 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50"/><br/> YouTube | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> <br/> LinkedIn | <img src="https://icon2.cleanpng.com/20240402/kzp/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" width="50"><br/> X/Twitter | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> <br/> Instagram | <img src="https://icon2.cleanpng.com/20240214/kxl/transparent-tiktok-logo-tiktok-logo-blue-and-pink-lettering-re-retro-style-tiktok-logo-evoking-1950s-1710878265139.webp" width="50"> <br/> TikTok |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -144,3 +158,4 @@ Here's the mostly comprehensive list of data engineering creators:
 | Tristan Handy | [Tristan Handy](https://www.linkedin.com/in/tristanhandy/) |
 | Benjamin Rogojan | [Seattle Data Guy](https://www.youtube.com/@SeattleDataGuy) | [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/) |[SeattleDataGuy](https://x.com/SeattleDataGuy) |
 | Zack Wilson | [Data with Zach](https://www.youtube.com/@EcZachly_) | [Zach Wilson](https://www.linkedin.com/in/eczachly/) | [Zach Morris Wilson](https://x.com/EcZachly) |
+
