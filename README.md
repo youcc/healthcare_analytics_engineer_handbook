@@ -113,6 +113,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 - [Care Compare](https://www.medicare.gov/care-compare/)
 - [Centers for Disease Control and Prevention (CDC) Open Technology](https://open.cdc.gov/)
 - [Centers for Medicare & Medicaid Services (CMS) Public Data Sets](https://data.cms.gov/)
+- [Dr. William Dupont's data used in biomedical research](https://dupont-wd.github.io/)  
 - [Global Health Observatory](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates)
 - [ImmPort Shared Data](https://www.immport.org/shared/home)
 
