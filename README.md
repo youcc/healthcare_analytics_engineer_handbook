@@ -16,6 +16,10 @@ Across all fields, professionals typically need three essential capabilities: bu
 ![alt text](<Screenshot from 2024-12-23 21-57-35.png>)
 
 
+![image](https://github.com/user-attachments/assets/20674429-cdef-4583-a710-4acdd0270d9a)
+
+
+
 ## Table of contents
 
 ### [Section I: Business Knowledge](healthcare-knowledge.md)
