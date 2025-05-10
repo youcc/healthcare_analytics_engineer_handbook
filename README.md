@@ -26,7 +26,8 @@ Across all fields, professionals typically need three essential capabilities: bu
 - Chapter 1: Healthcare System Fundamentals
 - Chapter 2: Healthcare Data Landscape
 - Chapter 3: Healthcare Analytics Use Cases
-    - [Provider Lookup](provider-lookup.md)
+    - [Provider Lookup](/ch3/provider-lookup.md)
+    - [Value-based Care](/ch3/value-based-care.md)
 ### [Section II: Hard Skills](soft-skills.md)
 - Chapter 4: Healthcare Data Architecture
 - Chapter 5: Data Modeling for Healthcare
