@@ -13,12 +13,14 @@ It's interesting to note that while many healthcare analytics professionals are 
 
 Across all fields, professionals typically need three essential capabilities: business knowledge, soft skills, and hard skills. 
 
-![alt text](<Screenshot from 2024-12-23 21-57-35.png>)
+![alt text](</images/Screenshot from 2024-12-23 21-57-35.png>)
 
 
 ![image](https://github.com/user-attachments/assets/20674429-cdef-4583-a710-4acdd0270d9a)
 [Fig Source](https://www.linkedin.com/posts/benjaminrogojan_you-can-master-every-tool-from-airflow-to-activity-7322997872688283650-i-uH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHHH-IBHredFGXdtkjlqgEEg9Z8xQMQwdE)
 
+![image](/images/1747015184675.jpeg)
+[Fig Source](https://www.linkedin.com/posts/oleg-agapov_junior-analytics-engineer-vs-senior-analytics-activity-7328800084475740160-pHQY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHHH-IBHredFGXdtkjlqgEEg9Z8xQMQwdE)
 
 ## Table of contents
 
