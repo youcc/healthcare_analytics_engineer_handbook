@@ -78,6 +78,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 - [Healthcare Data Analytics: Primary Methods and Related Insights](https://www.amazon.com/Healthcare-Data-Analytics-Primary-Insights/dp/1694588742)
 - [Interpreting the Medical Literature](https://www.amazon.com/Interpreting-Medical-Literature-Epidemiology-Clinicians-ebook/dp/B005FQHD8Q)
 - [Multivariable Analysis: A Practical Guide for Clinicians and Public Health Researchers](https://www.amazon.com/Multivariable-Analysis-Cambridge-Medicine-Hardcover-ebook/dp/B0054NUBA2)
+- [Practical Biostatistics for Medical and Health Sciences](https://link.springer.com/book/10.1007/978-981-97-3083-4)
 - [Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/)
 - [SAS Data Analytic Development: Dimensons of Software Quality](https://www.amazon.com/SAS-Data-Analytic-Development-Dimensions/dp/111924076X)
 - [SAS Programming with Medicare Administrative Data](https://www.amazon.com/SAS-Programming-Medicare-Administrative-Data/dp/1612903223)
