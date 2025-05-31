@@ -59,7 +59,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 ### Blogs
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
 - [Google Health Health AI Developer Foundations](https://research.google/blog/helping-everyone-build-ai-for-healthcare-applications-with-open-foundation-models/)
-
+- [Thoughs on Healthcare Markets and Technology](https://treyrawles.substack.com/)
 
 ### Books
 - [Analytics and AI for Healthcare: Book Series](https://www.routledge.com/analytics-and-AI-for-healthcare/book-series/Aforhealth?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=4392160b1ef911ef803d24d40a82b838)
