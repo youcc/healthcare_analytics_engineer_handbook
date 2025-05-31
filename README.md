@@ -26,6 +26,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 
 ### [Section I: Business Knowledge](healthcare-knowledge.md)
 - Chapter 1: Healthcare System Fundamentals
+    - [Healthcare Ecosystem Overview](/ch1/healthcare-ecosystem-overview.md)
 - Chapter 2: Healthcare Data Landscape
 - Chapter 3: Healthcare Analytics Use Cases
     - [Provider Lookup](/ch3/provider-lookup.md)
