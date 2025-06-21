@@ -59,12 +59,12 @@ Patients increasingly expect healthcare experiences similar to other consumer in
 
 Understanding the healthcare ecosystem's complexity helps analytics engineers approach their work more strategically:
 
-**Data Integration Challenges**: Expect to work with fragmented data sources requiring extensive cleaning, standardization, and mapping efforts. Success requires patience and systematic approaches to data quality improvement.
+- **Data Integration Challenges**: Expect to work with fragmented data sources requiring extensive cleaning, standardization, and mapping efforts. Success requires patience and systematic approaches to data quality improvement.
 
-**Stakeholder Alignment**: Different stakeholders have competing priorities and success metrics. Analytics projects must carefully balance these perspectives and clearly communicate how insights serve multiple constituency needs.
+- **Stakeholder Alignment**: Different stakeholders have competing priorities and success metrics. Analytics projects must carefully balance these perspectives and clearly communicate how insights serve multiple constituency needs.
 
-**Regulatory Compliance**: Healthcare analytics operate within strict privacy and security frameworks. Understanding HIPAA, state privacy laws, and emerging data governance requirements is essential for project success.
+- **Regulatory Compliance**: Healthcare analytics operate within strict privacy and security frameworks. Understanding HIPAA, state privacy laws, and emerging data governance requirements is essential for project success.
 
-**Clinical Context**: Healthcare data carries unique meaning that requires domain expertise to interpret correctly. Building relationships with clinical subject matter experts accelerates learning and improves analysis quality.
+- **Clinical Context**: Healthcare data carries unique meaning that requires domain expertise to interpret correctly. Building relationships with clinical subject matter experts accelerates learning and improves analysis quality.
 
 The healthcare ecosystem's complexity should not intimidate new analytics engineers—instead, it represents the very reason why skilled analytics professionals are so valuable in this industry. By understanding stakeholder relationships, data flows, and market dynamics, analytics engineers can identify opportunities to create meaningful impact through data-driven insights that improve patient outcomes, reduce costs, and enhance care delivery efficiency.
