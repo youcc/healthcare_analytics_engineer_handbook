@@ -156,6 +156,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 ### Websites
 - [Learn about CMS data](https://resdac.org/learn)
 - [TheCodingDocs](https://www.thecodingdocs.com/home)
+- [Michigan ADRC Data Sharing Hub](https://michiganadc.github.io/dmsc-madc/)
 
 ### Socla Media Accounts
 Here's the mostly comprehensive list of data engineering creators: 
