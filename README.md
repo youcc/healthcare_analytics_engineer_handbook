@@ -29,6 +29,7 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Healthcare Ecosystem Overview](/ch1/healthcare-ecosystem-overview.md)
     - [Key Stakeholders (Providers, Payers, Patients, Regulators)](/ch1/key-stakeholders.md)
     - [Healthcare Business Models](/ch1/healthcare-business-models.md)
+    - [Revenue Cycle Management](/ch1/revenue-cycle-management.md)
 - Chapter 2: Healthcare Data Landscape
     - [Types of Healthcare Data](/ch2/type-of-healthcare-data.md)
 - Chapter 3: Healthcare Analytics Use Cases
