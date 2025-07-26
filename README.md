@@ -32,6 +32,7 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Revenue Cycle Management](/ch1/revenue-cycle-management.md)
 - Chapter 2: Healthcare Data Landscape
     - [Types of Healthcare Data](/ch2/type-of-healthcare-data.md)
+    - [Healthcare Data Standards (HL7, FHIR, SNOMED CT, ICD, CPT)](/ch2/healthcare-data-standards.md)
 - Chapter 3: Healthcare Analytics Use Cases
     - [Provider Lookup](/ch3/provider-lookup.md)
     - [Value-based Care](/ch3/value-based-care.md)
