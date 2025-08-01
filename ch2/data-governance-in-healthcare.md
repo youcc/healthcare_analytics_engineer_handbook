@@ -1,4 +1,4 @@
-# Part 3: Data Governance in Healthcare
+# Data Governance in Healthcare
 
 ## Introduction to Healthcare Data Governance
 
