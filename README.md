@@ -34,6 +34,7 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Types of Healthcare Data](/ch2/type-of-healthcare-data.md)
     - [Healthcare Data Standards (HL7, FHIR, SNOMED CT, ICD, CPT)](/ch2/healthcare-data-standards.md)
     - [Data Governance in Healthcare](/ch2/data-governance-in-healthcare.md)
+    - [HIPAA and Data Privacy Considerations](/ch2/hipaa-data-privacy.md)
 - Chapter 3: Healthcare Analytics Use Cases
     - [Provider Lookup](/ch3/provider-lookup.md)
     - [Value-based Care](/ch3/value-based-care.md)
