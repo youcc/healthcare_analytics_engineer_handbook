@@ -36,15 +36,16 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Data Governance in Healthcare](/ch2/data-governance-in-healthcare.md)
     - [HIPAA and Data Privacy Considerations](/ch2/hipaa-data-privacy.md)
 - Chapter 3: Healthcare Analytics Use Cases
+    - [Clinical Quality Improvement](/ch3/clinical-quality-improvement.md)
     - [Provider Lookup](/ch3/provider-lookup.md)
     - [Value-based Care](/ch3/value-based-care.md)
-### [Section II: Hard Skills](soft-skills.md)
+### [Section II: Hard Skills](hard-skills.md)
 - Chapter 4: Healthcare Data Architecture
 - Chapter 5: Data Modeling for Healthcare
 - Chapter 6: SQL for Healthcare Analytics
 - Chapter 7: Visualization for Healthcare Data
 - Chapter 8: Advanced Analytics in Healthcare
-### [Section III: Soft Skills](hard-skills.md)
+### [Section III: Soft Skills](soft-skills.md)
 - Chapter 9: Collaboration with Healthcare Stakeholders
 - Chapter 10: Healthcare Analytics Project Management
 - Chapter 11: Translating Business Questions to Analytics
