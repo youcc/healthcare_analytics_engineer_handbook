@@ -38,6 +38,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 - Chapter 3: Healthcare Analytics Use Cases
     - [Clinical Quality Improvement](/ch3/clinical-quality-improvement.md)
     - [Population Health Management](/ch3/population-health-management.md)
+    - [Financial Performance Optimization](/ch3/financial-performance-optimization.md)
     - [Provider Lookup](/ch3/provider-lookup.md)
     - [Value-based Care](/ch3/value-based-care.md)
 ### [Section II: Hard Skills](hard-skills.md)
