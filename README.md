@@ -1,27 +1,40 @@
 # Healthcare Analytics Engineer Handbook
 
-This handbook aims to bridge the gap between healthcare domain knowledge and technical analytics skills -- something I wish I had when starting my journey in this field. 
+This handbook aims to bridge the gap between healthcare domain knowledge and technical analytics skills -- something I wish I had when starting my journey in this field.
+
+It is being extended in a new direction: **healthcare data that AI agents can actually use.** Agents do not lack intelligence; they lack context -- what the data means, which definition governs, what they are allowed to touch, and whether the result was right. Healthcare already has much of that context (code sets, metric definitions, HIPAA rules). Part II is being rebuilt around making it usable by pipelines and agents.
 
 I welcome your contributions, feedback, and suggestions as we continue to build this resource together. Whether you're a seasoned healthcare analytics professional or just starting your journey, there's a place for you in this community!
 
 ## Who Is This For?
 
-This handbook is for anyone entering or growing in healthcare analytics — whether you are a data analyst, data engineer, or analytics engineer who has just joined a healthcare organization and feels overwhelmed by the domain, or a healthcare professional who wants to level up their technical skills. No clinical background is required. No prior healthcare data experience is assumed.
+**Newcomers to healthcare analytics** -- data analysts, data engineers, or analytics engineers who have just joined a healthcare organization and feel overwhelmed by the domain, or healthcare professionals who want to level up their technical skills. No clinical background is required. No prior healthcare data experience is assumed. Start with Section I.
 
-## If You're Brand New, Read in This Order
+**Engineers building healthcare pipelines and AI-ready data** -- you know SQL and a cloud platform, and want the healthcare-specific parts: claims and FHIR data, late-arriving records, patient matching, PHI governance, and preparing data for agents. Start with Chapters 2, 4, 5, then Chapters 6 and 7.
 
-1. **Ch1** — Understand the world you are working in (the players, the money, the care models)
-2. **Ch2** — Learn the data: what it is, where it comes from, and how it is governed
-3. **Ch4** — Understand how healthcare data systems are architected
-4. **Ch5** — Learn how to model that data for analytics
-5. **Ch3** — See real use cases and case studies that put it all together
-6. **Ch6–8** — Build the hard technical skills: SQL, visualization, advanced analytics
-7. **[Glossary](glossary.md)** — When you hit an unfamiliar acronym (and you will), check here first
+## Reading Order
+
+**If you're brand new**
+
+1. **Ch1** -- Understand the world you are working in (the players, the money, the care models)
+2. **Ch2** -- Learn the data: what it is, where it comes from, and how it is governed
+3. **Ch4** -- Understand how healthcare data systems are architected
+4. **Ch5** -- Learn how to model that data for analytics
+5. **Ch3** -- See real use cases and case studies that put it all together
+6. **[Glossary](glossary.md)** -- When you hit an unfamiliar acronym (and you will), check here first
+
+**If you are an engineer**
+
+1. **Ch2** -- Healthcare data standards, governance, and HIPAA
+2. **Ch4** -- Architecture (being restructured around the lakehouse)
+3. **Ch5** -- Data modeling
+4. **Ch6** -- Agent-ready healthcare data *(planned)*
+5. **Ch7** -- Pipeline patterns and worked examples *(planned)*
 
 ## Getting started
 I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For comprehensive data engineering resources, his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) is excellent.
 
-It's interesting to note that while many healthcare analytics professionals are titled "data analyts" or "data scientists", they frequently perform tasks fall under "data engineering." This is why many end up functioning as "analytics engineers" in practice.  
+It's interesting to note that while many healthcare analytics professionals are titled "data analysts" or "data scientists", they frequently perform tasks that fall under "data engineering." This is why many end up functioning as "analytics engineers" in practice.
 
 ![image](https://github.com/user-attachments/assets/a5e5fd14-7e97-4f7c-96b2-b39997693a56)
 
@@ -37,6 +50,8 @@ Across all fields, professionals typically need three essential capabilities: bu
 [Fig Source](https://www.linkedin.com/posts/oleg-agapov_junior-analytics-engineer-vs-senior-analytics-activity-7328800084475740160-pHQY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHHH-IBHredFGXdtkjlqgEEg9Z8xQMQwdE)
 
 ## Table of Contents
+
+Status: chapters without a note are available. *(in progress)* = being rewritten. *(planned)* = not written yet.
 
 ### [Section I: Business Knowledge](healthcare-knowledge.md)
 - Chapter 1: Healthcare System Fundamentals
@@ -57,8 +72,9 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Case Studies of Successful Analytics Implementation](/ch3/case-studies-successful-analytics-implementation.md)
     - [Provider Lookup](/ch3/provider-lookup.md)
     - [Value-based Care](/ch3/value-based-care.md)
-### [Section II: Hard Skills](hard-skills.md)
-- Chapter 4: Healthcare Data Architecture
+
+### [Section II: Data Engineering for Healthcare](hard-skills.md)
+- Chapter 4: Healthcare Data Architecture *(in progress: warehouse and lake pages are being merged into one lakehouse-first chapter)*
     - [Healthcare Data Warehousing](/ch4/healthcare-data-warehousing.md)
     - [Data Lakes in Healthcare](/ch4/data-lake-in-healthcare.md)
     - [EHR Integration Strategies](/ch4/ehr-integration-strategies.md)
@@ -68,14 +84,27 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [Working with Time-Series Clinical Data](/ch5/working-with-time-series-clinical-data.md)
     - [Patient Journey Mapping](/ch5/patient-journey-mapping.md)
     - [Providers and Facility Hierarchies](/ch5/provider-and-facility-hierarchies.md)
-- Chapter 6: SQL for Healthcare Analytics *(coming soon)*
-- Chapter 7: Visualization for Healthcare Data *(coming soon)*
-- Chapter 8: Advanced Analytics in Healthcare *(coming soon)*
+- Chapter 6: Agent-Ready Healthcare Data *(planned)*
+    - What is true? Data quality, incremental loads, late-arriving and corrected records
+    - What does it mean? Code sets, metric definitions, and a shared semantic layer
+    - What is allowed? PHI, minimum necessary access, agent identity and audit trails
+    - Did it work? Evaluating and monitoring agent outputs on healthcare data
+- Chapter 7: Pipeline Patterns, Worked Examples *(planned)*
+    - Incremental loading of claims data
+    - FHIR data into a lakehouse
+    - Patient matching and de-duplication
+    - Modeling claims with dbt
+    - The same pipeline on Azure and AWS
+    - Near-real-time ADT event streams
+
 ### [Section III: Soft Skills](soft-skills.md)
-- Chapter 9: Collaboration with Healthcare Stakeholders *(coming soon)*
-- Chapter 10: Healthcare Analytics Project Management *(coming soon)*
-- Chapter 11: Translating Business Questions to Analytics *(coming soon)*
-- Chapter 12: Ethical Consideration in Healthcare Analytics *(coming soon)*
+- Chapter 8: Translating Business Questions to Analytics *(planned)*
+- Chapter 9: Collaboration with Healthcare Stakeholders *(planned)*
+- Chapter 10: Healthcare Analytics Project Management *(planned)*
+- Chapter 11: Ethical Consideration in Healthcare Analytics *(planned)*
+
+### On Hold
+General SQL, data visualization, and advanced analytics chapters are paused: many strong general resources already exist, and this handbook focuses on what is specific to healthcare.
 
 ## Appendices
 - [Glossary](glossary.md)
